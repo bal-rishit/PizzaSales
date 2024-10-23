@@ -13,13 +13,6 @@
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
 
-## Reports
-### [Interactive report on Novapro](https://www.novypro.com/project/pizza-sales-reports)
-### [Interactive report on Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
-### [SQL Queries Report](https://github.com/tushar2704/Pizza-Sales-Analysis/blob/main/reports/query_report.pdf)
-
-
-
 
 ## Project Structure
 
@@ -117,22 +110,8 @@ Dataset contains valuable information that could help us optimize our operations
 
 
 
-
-
-
-
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-## Contact me!
-
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
 ![1](https://github.com/bal-rishit/PizzaSales/blob/main/Pizza-Sales-Analysis-main/src/pizza_sales_images/pizzass1.jpeg)
-![2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
+![2](https://github.com/bal-rishit/PizzaSales/blob/main/Pizza-Sales-Analysis-main/src/pizza_sales_images/pizzass2.jpeg)
 
 
 
